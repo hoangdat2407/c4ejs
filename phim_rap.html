@@ -1,0 +1,92 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&family=Sen:wght@400;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+    <title>Movie Design</title>
+</head>
+
+<body>
+    <div class="navbar">
+        <div class="navbar-container">
+            <div class="logo-container">
+                <h1 class="logo">MBox</h1>
+            </div>
+            <div class="menu-container">
+                <ul class="menu-list">
+                    <li class="menu-list-item active"><a href="index.html">Home</a></li>
+                    <li class="menu-list-item"><a href="phim_rap.html">Phim chiếu rạp</a></li>
+                    <li class="menu-list-item"><a href="phim_le.html">Phim lẻ</a></li>
+                    <li class="menu-list-item"><a href="phim_hoat_hinh.html">Phim hoạt hình</a></li>
+                </ul>
+            </div>
+            <div class="profile-container">
+                <img class="profile-picture" src="https://cdn.glitch.global/985312b0-7b91-4363-b32a-64bc94baf2d9/profile.jpg?v=1648819130706" alt="">
+                <div class="profile-text-container">
+                    <span class="profile-text">Profile</span>
+                    <i class="fas fa-caret-down"></i>
+                </div>
+                <div class="toggle">
+                    <i class="fas fa-moon toggle-icon"></i>
+                    <i class="fas fa-sun toggle-icon"></i>
+                    <div class="toggle-ball"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="sidebar">
+        <i class="left-menu-icon fas fa-search"></i>
+        <i class="left-menu-icon fas fa-home"></i>
+        <i class="left-menu-icon fas fa-users"></i>
+        <i class="left-menu-icon fas fa-bookmark"></i>
+        <i class="left-menu-icon fas fa-tv"></i>
+        <i class="left-menu-icon fas fa-hourglass-start"></i>
+        <i class="left-menu-icon fas fa-shopping-cart"></i>
+    </div>
+    <div class="container">
+        <div class="content-container">
+            <div class="featured-content"
+                style="background: linear-gradient(to bottom, rgba(0,0,0,0), #151515), url('https://cdn.glitch.global/985312b0-7b91-4363-b32a-64bc94baf2d9/ft1.jpg?v=1648819117494');">
+                <img class="featured-title" src="https://cdn.glitch.global/985312b0-7b91-4363-b32a-64bc94baf2d9/ft1.jpg?v=1648819117494" alt="">
+                <p class="featured-desc">Phim con gà KFC</p>
+                <button class="featured-button">WATCH</button>
+            </div>
+            
+            <div>
+                <table id="phim_rap">
+                </table>
+            </div>               
+    <div>
+        <footer>
+            <div class="waves">
+                <div class="wave" id="wave1"></div>
+                <div class="wave" id="wave2"></div>
+            </div>
+            <ul class="social-icons">
+                <li><a href="#"><ion-icon name="logo-facebook"></ion-icon></a></li>
+                <li><a href="#"><ion-icon name="logo-twitter"></ion-icon></a></li>
+                <li><a href="#"><ion-icon name="logo-instagram"></ion-icon></a></li>
+                <li><a href="#"><ion-icon name="logo-linkedin"></ion-icon></a></li>  
+            </ul>
+            <ul class="menu">
+                <li><a href="#">Home</a></li>  
+                <li><a href="#">Aboout</a></li>  
+                <li><a href="#">Service</a></li>  
+                <li><a href="#">Team</a></li>  
+                <li><a href="#">Contact</a></li>  
+            </ul>
+            <p>@MBox 2022 || All Rights Reserved</p>
+        </footer>
+    </div>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <script src="phim_rap.js"></script>
+</body>
+
+</html>
