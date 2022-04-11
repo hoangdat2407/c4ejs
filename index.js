@@ -154,11 +154,8 @@ let data3 = [
   {
     src:"https://bphimmoi.net/wp-content/uploads/2022/04/umma-63252-thumbnail-250x350.jpg",
     content:"UMMA",
-<<<<<<< HEAD
     describe:"Amanda và con gái sống một cuộc sống yên tĩnh tại một trang trại của Mỹ, nhưng khi hài cốt của người mẹ ghẻ lạnh từ Hàn Quốc đến,...",
-=======
     describe:"Amanda và con gái sống một cuộc sống yên tĩnh tại một trang trại của Mỹ, nhưng khi hài cốt của người mẹ ghẻ lạnh từ Hàn Quốc đến, Amanda trở nên ám ảnh bởi nỗi sợ biến thành mẹ ruột....",
->>>>>>> 1da91d89fbab5ce34b30a98e9e0f0a6029f7d1a7
   },
 
 ]
