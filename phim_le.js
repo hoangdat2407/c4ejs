@@ -30,12 +30,12 @@ let data = [
     {
       src:"https://bphimmoi.net/wp-content/uploads/2022/04/umma-63252-thumbnail-250x350.jpg",
       content:"UMMA",
-      describe:"Amanda và con gái sống một cuộc sống yên tĩnh tại một trang trại của Mỹ, nhưng khi hài cốt của người mẹ ghẻ lạnh từ Hàn Quốc đến, Amanda trở nên ám ảnh bởi nỗi sợ biến thành mẹ ruột của mình.",
+      describe:"Amanda và con gái sống một cuộc sống yên tĩnh tại một trang trại của Mỹ, nhưng khi hài cốt của người mẹ ghẻ lạnh từ Hàn Quốc đến,...",
     },
     {
         src:"https://bphimmoi.net/wp-content/uploads/2022/04/bao-thanh-thien-co-quan-tai-rong-63256-thumbnail-250x350.jpg",
         content:"BAO THANH THIÊN: CỔ QUAN TÀI RỖNG",
-        describe:"Vào những năm đầu của Thiên Kinh thuộc triều đại Bắc Tống, hai anh em nhà họ Tề chuyên tu sửa mộ đã đào được một ngôi mộ đơn độc vào đêm khuya, sau đó gây ra một vụ biến xác. Người anh cả chết tại chỗ còn người em thứ hai thì lại phát điên, ai cũng nguy kịch một lúc...",
+        describe:"Vào những năm đầu của Thiên Kinh thuộc triều đại Bắc Tống, hai anh em nhà họ Tề chuyên tu sửa mộ đã đào được một ngôi mộ đơn độc vào đêm khuya,...",
     },
     {
         src:"https://bphimmoi.net/wp-content/uploads/2022/04/song-nhiet-63260-thumbnail-250x350.jpg",
@@ -50,7 +50,7 @@ let data = [
     {
         src:"https://bphimmoi.net/wp-content/uploads/2022/03/trang-roi-63145-thumbnail-250x350.jpg",
         content:"TRĂNG RƠI",
-        describe:"Trăng Rơi - Moonfall mở đầu bộ phim kể về một thế lực bí ẩn đã làm cho mặt trăng ra khỏi quỹ đạo xung quanh Trái Đất, và trong vòng thời gian tới mặt trăng có thể va chạm với Trái Đất khiến cho mọi thứ bị diệt vong...",
+        describe:"Trăng Rơi - Moonfall mở đầu bộ phim kể về một thế lực bí ẩn đã làm cho mặt trăng ra khỏi quỹ đạo xung quanh Trái Đất, và trong vòng thời gian tới mặt trăng có thể va chạm với...",
     },
     {
         src:"https://bphimmoi.net/wp-content/uploads/2022/04/su-dan-ap-cua-hannah-stevenson-63281-thumbnail-250x350.jpg",
@@ -65,7 +65,7 @@ let data = [
     {
         src:"https://bphimmoi.net/wp-content/uploads/2022/03/chien-dich-panama-xam-luoc-panama-62793-thumbnail-250x350.jpg",
         content:"CHIẾN DỊCH PANAMA/XÂM LƯỢC PANAMA",
-        describe:"Một cựu lính thủy đánh bộ được một nhà thầu quốc phòng thuê đến Panama để hoàn tất một thỏa thuận vũ khí. Trong quá trình đó, anh ta tham gia vào cuộc xâm lược Panama của Hoa Kỳ và học được một bài học quan trọng về bản chất thực sự của quyền lực chính trị.",
+        describe:"Một cựu lính thủy đánh bộ được một nhà thầu quốc phòng thuê đến Panama để hoàn tất một thỏa thuận vũ khí. Trong quá trình đó, anh ta tham gia vào cuộc xâm lược Panama của Hoa Kỳ và...",
     },
     {
         src:"https://bphimmoi.net/wp-content/uploads/2022/04/morbius-63298-thumbnail-250x350.jpg",
@@ -90,12 +90,12 @@ let data = [
     {
         src:"https://bphimmoi.net/wp-content/uploads/2022/04/nha-co-mot-ta-con-63237-thumbnail-250x350.jpg",
         content:"NHÀ CÓ MỘT TÁ CON",
-        describe:"Nhà Có Một Tá Con - Cheaper By The Dozen bố mẹ Baker chuyển đến Chicago sau khi tộc trưởng Tom nhận được công việc huấn luyện bóng đá tại Đại học Northwestern, buộc người vợ nhà văn của ông, Mary,...",
+        describe:"Nhà Có Một Tá Con - Cheaper By The Dozen bố mẹ Baker chuyển đến Chicago sau khi tộc trưởng Tom nhận được công việc huấn luyện bóng đá tại Đại học Northwestern,...",
     },
     {
         src:"https://bphimmoi.net/wp-content/uploads/2022/04/xe-cap-cuu-63235-thumbnail.jpg",
         content:"XE CẤP CỨU",
-        describe:"Xe Cấp Cứu lấy bối cảnh tại thành phố Los Angeles đầy hối hả, sôi động và sầm uất. Cựu binh Will Sharp (Yahya Abdul-Mateen II) vì hoàn cảnh khó khăn nên đã tìm đến sự giúp đỡ của người mà anh biết mình không nên nhờ vả - em trai nuôi Danny (Jake Gyllenhaal)...",
+        describe:"Xe Cấp Cứu lấy bối cảnh tại thành phố Los Angeles đầy hối hả, sôi động và sầm uất. Cựu binh Will Sharp (Yahya Abdul-Mateen II) vì hoàn cảnh khó khăn nên đã tìm ...",
     },
     {
         src:"https://bphimmoi.net/wp-content/uploads/2022/04/loveland-63239-thumbnail-250x350.jpg",

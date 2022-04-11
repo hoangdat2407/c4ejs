@@ -1,14 +1,14 @@
 //data
 let data = [
     {
-        src:"https://bphimmoi.net/wp-content/uploads/2022/04/apollo-10-1-2-thoi-tho-au-o-ky-nguyen-vu-tru-63296-thumbnail-250x350.jpg",
-        content:"APOLLO 10 1/2: THỜI THƠ ẤU Ở KỶ NGUYÊN VŨ TRỤ",
-        describe:"Một Người đàn ông Kể Lại đời Mình Khi Còn Là Cậu Bé 10 Tuổi ở Houston Năm 1969, Dệt Nên Câu Chuyện Hoài Niệm Qua Chuyến Du Hành Lạ Thường Lên Mặt Trăng.",
+        src:"https://cdn.phimbo.tv/images/poster_au-trung-tinh-nghich-phan-4.jpg",
+        content:" ẤU TRÙNG TINH NGHỊCH",
+        describe:"Một bộ phim hoạt hình hài hước về những chú ấu trùng nghịch ngợm",
     },
     {
         src:"https://bphimmoi.net/wp-content/uploads/2022/04/hung-su-thieu-nien-63258-thumbnail-250x350.jpg",
         content:"HÙNG SƯ THIẾU NIÊN",
-        describe:"Hùng Sư Thiếu Niên kể về câu chuyện của cậu thiếu niên bị bỏ rơi A Quyên cùng những người bạn A Miêu A Cẩu tham gia cuộc thi múa lân dưới sự huấn luyện của Sư vương đã nghỉ hưu Hàm Ngư Cường. Sau khi rèn luyện, họ trưởng thành từ một mèo bệnh thành hùng sư.",
+        describe:"Hùng Sư Thiếu Niên kể về câu chuyện của cậu thiếu niên bị bỏ rơi A Quyên cùng những người bạn A Miêu A Cẩu tham gia cuộc thi múa lân dưới sự huấn luyện của Sư vương đã nghỉ hưu Hàm Ngư Cường...",
     },
     {
         src:"https://bphimmoi.net/wp-content/uploads/2022/04/nhung-ke-xau-xa-63250-thumbnail-250x350.jpg",
@@ -43,27 +43,27 @@ let data = [
     {
         src:"https://bphimmoi.net/wp-content/uploads/2022/01/nhung-ngay-cua-dug-61458-thumbnail.jpg",
         content:"NHỮNG NGÀY CỦA DUG",
-        describe:"Carl , ông già hay cằn nhằn quen thuộc trong tác phẩm Up, đã bán căn hộ của mình và mua một căn nhà gỗ, sống chung với chú chó Dug. Dug là chú chó tinh nghịch, có khả năng nói chuyện, còn Carl là ông già cao tuổi dễ ngủ trưa... ",
+        describe:"Carl , ông già hay cằn nhằn quen thuộc trong tác phẩm Up, đã bán căn hộ của mình và mua một căn nhà gỗ, sống chung với chú chó Dug. Dug là chú chó tinh nghịch,... ",
     },
     {
         src:"https://bphimmoi.net/wp-content/uploads/2022/01/chu-meo-may-den-tu-tuong-lai-61295-thumbnail.jpg",
         content:"CHÚ MÈO MÁY ĐẾN TỪ TƯƠNG LAI",
-        describe:"Doraemon là một chú mèo máy đến từ thế kỷ 22. Doraemon đến thế kỷ 20 và ở lại với gia đình Nobi. Nobita là cậu bé hậu đậu và được Doraemon giúp đỡ cậu bằng những bảo bối thần kỳ của thế kỷ 22. Từ đây, những chuyện dở khóc dỡ cười diễn ra và đồng thời thể hiện tình bạn sâu sắc giữa các nhân vật.  ",
+        describe:"Doraemon là một chú mèo máy đến từ thế kỷ 22. Doraemon đến thế kỷ 20 và ở lại với gia đình Nobi. Nobita là cậu bé hậu đậu và được Doraemon giúp đỡ cậu bằng ...  ",
     },
     {
         src:"https://bphimmoi.net/wp-content/uploads/2022/01/naruto-phan-1-61375-thumbnail.jpg",
         content:"NARUTO (PHẦN 1)",
-        describe:" Nhân vật chính là Uzumaki Naruto, một thiếu niên ồn ào, hiếu động, một ninja luôn muốn tìm cách khẳng định mình để được mọi người công nhận, rất muốn trở thành Hokage (Người đứng đầu làng lá Konoha) - người lãnh đạo ninja cả làng,...",
+        describe:" Nhân vật chính là Uzumaki Naruto, một thiếu niên ồn ào, hiếu động, một ninja luôn muốn tìm cách khẳng định mình để được mọi người công nhận, rất muốn trở thành Hokage ...",
     },
     {
         src:"https://bphimmoi.net/wp-content/uploads/2022/01/doraemon-nobita-va-cuoc-phieu-luu-duoi-long-dat-61327-thumbnail.jpg",
         content:"DORAEMON: NOBITA VÀ CUỘC PHIÊU LƯU DƯỚI LÒNG ĐẤT",
-        describe:"Doraemon đã tạo ra một hang động dưới lòng đất để cho mọi người nghỉ ngơi, và sẵn đó Nobita có thể giấu đi những bài kiểm tra điểm 0. Nhưng không may Suneo đã bị lạc. Sau đó mọi người quay trở về nhà ngoại trừ Suneo....",
+        describe:"Doraemon đã tạo ra một hang động dưới lòng đất để cho mọi người nghỉ ngơi, và sẵn đó Nobita có thể giấu đi những bài kiểm tra điểm 0. Nhưng không may Suneo đã bị lạc...",
     },
     {
         src:"https://bphimmoi.net/wp-content/uploads/2022/03/pocket-monsters-kami-to-yobareshi-arceus-63079-thumbnail-250x350.jpg",
-        content:"POCKET MONSTERS: KAMI TO YOBARESHI ARCEUS",
-        describe:"Satoshi Và Go Gặp Lại Nhiều đồng đội Hoài Niệm Như Hikari, Gặp Gỡ Pokémon Huyền ảo Mang Danh Là Vị Thần, Arceus Cùng Với Bộ 3 Pokémon Huyền Thoại Agnome, Yuxie, Emrit. Tại đây, Cả Nhóm Cùng Nhau Ngăn Chặn ...",
+        content:"POCKET MONSTERS:KAMI TO YOBARESHI ARCEUS",
+        describe:"Satoshi Và Go Gặp Lại Nhiều đồng đội Hoài Niệm Như Hikari, Gặp Gỡ Pokémon Huyền ảo Mang Danh Là Vị Thần, Arceus Cùng Với Bộ 3 Pokémon Huyền Thoại Agnome, Yuxie, Emrit...",
     },
     {
         src:"https://bphimmoi.net/wp-content/uploads/2022/03/adam-cua-eve-buoi-hoa-nhac-hoat-hoa-62617-thumbnail-250x350.jpg",
@@ -73,7 +73,7 @@ let data = [
     {
         src:"https://bphimmoi.net/wp-content/uploads/2022/03/belle-rong-va-cong-chua-tan-nhang-62432-thumbnail.jpg",
         content:"BELLE: RỒNG VÀ CÔNG CHÚA TÀN NHANG",
-        describe:"Belle: Rồng Và Công Chúa Tàn Nhang, Ryuu To Sobakasu No Hime (2022)Phim kể câu chuyện về cô bé Suzu Naito - nữ sinh 17 tuổi sống cùng cha tại thành phố Kochi xinh đẹp. Suzu yêu ca hát và sở hữu chất giọng thiên phú, tuy nhiên sau một tai nạn cướp đi người mẹ yêu thương, cô đã không thể hát được nữa...",
+        describe:"Belle: Rồng Và Công Chúa Tàn Nhang, Ryuu To Sobakasu No Hime (2022)Phim kể câu chuyện về cô bé Suzu Naito - nữ sinh 17 tuổi sống cùng cha tại thành phố Kochi xinh đẹp...",
     },
     {
         src:"https://bphimmoi.net/wp-content/uploads/2022/02/love-live-single-61983-thumbnail.jpg",
@@ -88,7 +88,7 @@ let data = [
     {
         src:"https://bphimmoi.net/wp-content/uploads/2022/01/khi-muon-khoc-toi-deo-mat-na-meo-60490-thumbnail.jpg",
         content:"KHI MUỐN KHÓC, TÔI ĐEO MẶT NẠ MÈO",
-        describe:"Một câu chuyện lãng mạn lấy bối cảnh ở tại thành phố Tokoname ở tỉnh Aichi. Nhân vật chính là một nữ sinh trung học năm hai lập dị tên là Miyo Sasaki, cô yêu thầm người bạn cùng lớp của mình là Kento Hinode và cố gắng thổ lộ tình cảm của mình, nhưng không có kết quả. Và cuối cùng iải pháp của cô là: biến thành mèo.",
+        describe:"Một câu chuyện lãng mạn lấy bối cảnh ở tại thành phố Tokoname ở tỉnh Aichi. Nhân vật chính là một nữ sinh trung học năm hai lập dị tên là Miyo Sasaki, cô yêu thầm người bạn cùng lớp của mình là Kento Hinode và...",
     },
     {
         src:"https://bphimmoi.net/wp-content/uploads/2022/01/bao-boi-than-ky-60540-thumbnail.jpg",

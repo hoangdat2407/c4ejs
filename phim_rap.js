@@ -30,7 +30,7 @@ let data =[
   {
     src : "https://bphimmoi.net/wp-content/uploads/2022/01/cuoc-vay-ham-tu-than-60732-thumbnail.jpg",
     content : "Cuộc vây hãm tử thần",
-    describe : "Một Cựu Quân Nhân Làm Việc Tại Một Nhà Máy điện Georgia Phải Bắt Tay Vào Hành động để Ngăn Chặn Thảm Họa Khi Một Nhóm Binh Lính Bất Hảo Giành Quyền Kiểm Soát Nhà Máy Và Bắt Các Nhân Viên Làm Con Tin...",
+    describe : "Một Cựu Quân Nhân Làm Việc Tại Một Nhà Máy điện Georgia Phải Bắt Tay Vào Hành động để Ngăn Chặn Thảm Họa Khi Một Nhóm Binh Lính Bất Hảo Giành Quyền Kiểm Soát Nhà Máy ...",
   },
   {
     src : "https://webtaiphim.com/upload/img/products/8d860484b6dd3d8e25b99dc9e5b6db1a.jpg",
@@ -85,7 +85,7 @@ let data =[
   {
     src:"https://bphimmoi.net/wp-content/uploads/2021/12/giang-sinh-8-bit-59743-thumbnail.jpg",
     content:"GIÁNG SINH 8-BIT",
-    describe:"Giáng Sinh 8-Bit - 8-Bit Christmas, 8-Bit Christmas 2021 Full Vào Những Năm 1980 ở Chicago, Một Cậu Bé 10 Tuổi Bắt đầu Hành Trình Tìm Kiếm Món Quà Giáng Sinh Của Thế Hệ Mình: Hệ Thống Trò Chơi điện Tử Mới Nhất Và Tuyệt Vời Nhất.",
+    describe:"Giáng Sinh 8-Bit - 8-Bit Christmas, 8-Bit Christmas 2021 Full Vào Những Năm 1980 ở Chicago, Một Cậu Bé 10 Tuổi Bắt đầu Hành Trình Tìm Kiếm Món Quà Giáng Sinh Của Thế Hệ Mình:...",
   },
   {
     src : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQSh4TKRJY5hSfQl89pupPiDZAT1OO4ZzRAkO1i-fp_51boaNG",

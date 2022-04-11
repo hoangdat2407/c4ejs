@@ -56,7 +56,7 @@ let data2 =[
   {
     src : "https://bphimmoi.net/wp-content/uploads/2022/02/khong-loi-thoat-2022-62382-thumbnail.jpg",
     content : "Không lối thoát",
-    describe : "Không Lối Thoát - No Exit 2022: Một sinh viên đại học, trên đường thăm mẹ về nhà, bị mắc kẹt với một nhóm người tại một điểm dừng chân trên núi trong một trận bão tuyết...",
+    describe : "Không Lối Thoát - No Exit 2022: Một sinh viên đại học, trên đường thăm mẹ về nhà, bị mắc kẹt với một nhóm người tại một điểm dừng chân trên núi ...",
   },
   {
     src : "https://bphimmoi.net/wp-content/uploads/2022/01/phuc-thu-cuoc-doi-61074-thumbnail.jpg",
@@ -66,7 +66,7 @@ let data2 =[
   {
     src : "https://bphimmoi.net/wp-content/uploads/2022/01/cuoc-vay-ham-tu-than-60732-thumbnail.jpg",
     content : "Cuộc vây hãm tử thần",
-    describe : "Một Cựu Quân Nhân Làm Việc Tại Một Nhà Máy điện Georgia Phải Bắt Tay Vào Hành động để Ngăn Chặn Thảm Họa Khi Một Nhóm Binh Lính Bất Hảo Giành Quyền Kiểm Soát Nhà Máy Và Bắt Các Nhân Viên Làm Con Tin...",
+    describe : "Một Cựu Quân Nhân Làm Việc Tại Một Nhà Máy điện Georgia Phải Bắt Tay Vào Hành động để Ngăn Chặn Thảm Họa Khi Một Nhóm Binh Lính Bất Hảo Giành Quyền Kiểm Soát Nhà Máy...",
   },
   {
     src : "https://webtaiphim.com/upload/img/products/8d860484b6dd3d8e25b99dc9e5b6db1a.jpg",
@@ -121,7 +121,7 @@ let data2 =[
   {
     src:"https://bphimmoi.net/wp-content/uploads/2021/12/giang-sinh-8-bit-59743-thumbnail.jpg",
     content:"GIÁNG SINH 8-BIT",
-    describe:"Giáng Sinh 8-Bit - 8-Bit Christmas, 8-Bit Christmas 2021 Full Vào Những Năm 1980 ở Chicago, Một Cậu Bé 10 Tuổi Bắt đầu Hành Trình Tìm Kiếm Món Quà Giáng Sinh Của Thế Hệ Mình: Hệ Thống Trò Chơi điện Tử Mới Nhất Và Tuyệt Vời Nhất.",
+    describe:"Giáng Sinh 8-Bit - 8-Bit Christmas, 8-Bit Christmas 2021 Full Vào Những Năm 1980 ở Chicago, Một Cậu Bé 10 Tuổi Bắt đầu Hành Trình Tìm Kiếm Món Quà Giáng Sinh Của Thế Hệ Mình:...",
   },
  
 ]
@@ -154,7 +154,7 @@ let data3 = [
   {
     src:"https://bphimmoi.net/wp-content/uploads/2022/04/umma-63252-thumbnail-250x350.jpg",
     content:"UMMA",
-    describe:"Amanda và con gái sống một cuộc sống yên tĩnh tại một trang trại của Mỹ, nhưng khi hài cốt của người mẹ ghẻ lạnh từ Hàn Quốc đến, Amanda trở nên ám ảnh bởi nỗi sợ biến thành mẹ ruột của mình.",
+    describe:"Amanda và con gái sống một cuộc sống yên tĩnh tại một trang trại của Mỹ, nhưng khi hài cốt của người mẹ ghẻ lạnh từ Hàn Quốc đến,...",
   },
 
 ]
@@ -182,12 +182,12 @@ let data4 = [
   {
     src:"https://bphimmoi.net/wp-content/uploads/2022/03/chip-va-potato-63077-thumbnail-250x350.jpg",
     content:"CHIP VÀ POTATO",
-    describe:"Chip Và Potato - Chip & Potato, 2019 Anime Chip, Cô Chó Pug đáng Yêu, Bắt đầu đi Học Mầm Non, Kết Bạn Mới Và Thử Những điều Mới – Với Chút Trợ Giúp Từ Potato, Người Bạn Chuột Bí Mật Của Cô...",
+    describe:"Chip Và Potato - Chip & Potato, 2019 Anime Chip, Cô Chó Pug đáng Yêu, Bắt đầu đi Học Mầm Non, Kết Bạn Mới Và Thử Những điều Mới – Với Chút Trợ Giúp Từ Potato,...",
   },
   {
     src:"https://bphimmoi.net/wp-content/uploads/2022/03/delicious-party-e2-99-a1precure-63035-thumbnail.jpg",
     content:"DELICIOUS PARTY♡PRECURE",
-    describe:"Delicious Party♡Precure, 2022 Anime Một Phần Về Precure Mới. Băng đảng Bundoru đã đánh Cắp Cuốn Sách Recipe – Báu Vật Của CooKingdom (Vương Quốc Nấu Nướng) Và Thu Thập Các Recipepe để Thực Hiện Một ý đồ Xấu Xa...",
+    describe:"Delicious Party♡Precure, 2022 Anime Một Phần Về Precure Mới. Băng đảng Bundoru đã đánh Cắp Cuốn Sách Recipe – Báu Vật Của CooKingdom (Vương Quốc Nấu Nướng) ...",
   },
 
 ]
